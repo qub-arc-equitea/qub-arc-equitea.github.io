@@ -1745,14 +1745,13 @@ input, select, textarea {
 /* Image */
 
 	.image {
-		display: inline-block;
 		border: 0;
 		float: left;
 		width: 100px;
 		height: 100px;
 	}
 
-		.image img {
+		/* .image img {
 			display: block;
 			width: 100%;
 		}
@@ -1792,7 +1791,7 @@ input, select, textarea {
 			.image.centered img {
 				margin: 0 auto;
 				width: auto;
-			}
+			} */
 
 /* List */
 
