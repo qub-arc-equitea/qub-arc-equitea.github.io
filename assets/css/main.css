@@ -1744,9 +1744,7 @@ input, select, textarea {
 
 /* Image */
 
-	.image {
-		border: 0;
-		float: left;
+	.img {
 		width: 100px;
 		height: 100px;
 	}
