@@ -2631,3 +2631,17 @@ input, select, textarea {
 				}
 
 	}
+
+.imgtxt {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.image {
+	flex-basis: 40%
+}
+
+.text {
+	padding-left: 20px;
+}
