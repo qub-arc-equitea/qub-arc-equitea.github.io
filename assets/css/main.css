@@ -1907,6 +1907,7 @@ input, select, textarea {
 /* Table */
 
 	table {
+		table-layout: fixed;
 		width: 100%;
 		text-align: left;
 	}
@@ -2647,5 +2648,5 @@ input, select, textarea {
 }
 
 . div2{
-	
+
 }
